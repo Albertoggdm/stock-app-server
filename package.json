@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.14.4",
+    "apollo-server": "^2.25.3",
     "bcrypt": "^5.0.0",
     "graphql": "^15.1.0",
     "jsonwebtoken": "^8.5.1",
